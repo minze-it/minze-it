@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minze-it
+- 👋 Hi, I’m Markus
 - 👀 I’m interested in c#/dotnet and everything around
 - 🌱 I’m currently using dotnet-maui
 
